@@ -1,0 +1,40 @@
+<resources>
+    <!-- Название программы -->
+    <string name="app_name">TSN_DEMO_03_Questionnaire</string>
+
+    <!-- Текстовые константы -->
+    <string name="Приветсвие">Мини опросник по вашему смартфону!</string>
+
+    <string name="Кто_Вы">Кто вы?</string>
+    <string name="ваш_фио">Как вас зовут?</string>
+    <string name="os">Операционная система вашего смартфона:</string>
+    <string name="ios">IOS</string>
+    <string name="android">Android</string>
+
+
+
+
+    <string name="бренд">Бренд:</string>
+    <string name="Вперед">Вперед</string>
+
+
+
+    <string name="Итог">Ваши данные:</string>
+    <string name="Имя">Имя:</string>
+    <string name="Операционная_система">Операционная система:</string>
+    <string name="Брендд">Наименование смартфона:</string>
+
+
+    <string name="Назад">Назад</string>
+    <string name="Выход">Выход</string>
+
+    <!-- Массив строк -->
+    <string-array name="country_arrays">
+        <item>Samsung</item>
+        <item>IPhone</item>
+        <item>Blackberry</item>
+        <item>Xiaomi</item>
+        <item>Google Pixel</item>
+    </string-array>
+
+</resources>
